@@ -359,9 +359,9 @@ http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=52e729273
 http://load.kudaplay.tv/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 type="stream" tvg-id="Globo EPTV Central" tvg-logo="https://i.ibb.co/wdXPf5c/eptv.png" group-title="TV Aberta",Globo EPTV Central
 http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CENTRAL/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV RibeirÃ? £o Preto" tvg-logo="https://i.ibb.co/26dt3GJ/eptvrp.png" group-title="TV Aberta",Globo EPTV RibeirÃ? £o Preto
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV RibeirÃ?Â£o Preto" tvg-logo="https://i.ibb.co/26dt3GJ/eptvrp.png" group-title="TV Aberta",Globo EPTV RibeirÃ?Â£o Preto
 http://load.kudaplay.tv/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
-#EXTINF:-1 type="stream" tvg-id="Globo EPTV RibeirÃ? £o Preto HD" tvg-logo="https://i.ibb.co/26dt3GJ/eptvrp.png" group-title="TV Aberta",Globo EPTV RibeirÃ? £o Preto HD
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV RibeirÃ?Â£o Preto HD" tvg-logo="https://i.ibb.co/26dt3GJ/eptvrp.png" group-title="TV Aberta",Globo EPTV RibeirÃ?Â£o Preto HD
 http://load.kudaplay.tv/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
 #EXTINF:-1 type="stream" tvg-id="Globo EPTV Sao Carlos" tvg-logo="https://i.ibb.co/wdXPf5c/eptv.png" group-title="TV Aberta",Globo EPTV Sao Carlos
 http://load.kudaplay.tv/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
